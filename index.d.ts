@@ -1,4 +1,4 @@
-// Type definitions for react-vertical-timeline 2.0.5
+// Type definitions for react-vertical-timeline-component 2.0.5
 // Project: https://github.com/stephane-monnot/react-vertical-timeline
 // Definitions by: Simone Fonda <fonda@spaziodati.eu>
 // TypeScript Version: 2.6
