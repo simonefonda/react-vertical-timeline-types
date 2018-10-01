@@ -9,6 +9,7 @@ import * as React from 'react';
 export interface VerticalTimelineProps extends React.Props<VerticalTimeline> {
     animate?: boolean;
     className?: string;
+    layout?: string;
 }
 
 export interface VerticalTimelineElementProps extends React.Props<VerticalTimelineElement> {
